@@ -27,42 +27,46 @@ Contents for Project Review 1
 
 #### Project schedule and effort
 
+![Time Tracking](time_tracking.png)
+
 #### Recurring events of the Sprints
 
 ##### Sprint Planning
 
-When: At the start of the sprint. Same day as sprint review and retrospective. We have been combining Sprint planning, review and retrospective. Actual schedule depends on the PO and dev team schedules.
-Organizer: Scrum master
-Participants: Scrum team
-Results: Sprint backlog is decided.
+- When: At the start of the sprint. Same day as sprint review and retrospective. We have been combining Sprint planning, review and retrospective. Actual schedule depends on the PO and dev team schedules.
+- Organizer: Scrum master
+- Participants: Scrum team
+- Results: Sprint backlog is decided.
 
 ##### Sprint Review
 
-When: Same day as sprint planning and retrospective.
-Organizer: Scrum master
-Participants: Scrum team
-Results: PO is up-to-date how sprint goal has succeeded.
+- When: Same day as sprint planning and retrospective.
+- Organizer: Scrum master
+- Participants: Scrum team
+- Results: PO is up-to-date how sprint goal has succeeded.
 
 ##### Sprint Retrospective
 
-When: Same day as sprint planning and retrospective.
-Organizer: Scrum master
-Participants: Scrum team
-Results: We know what is going well and decided on improvements.
+- When: Same day as sprint planning and retrospective.
+- Organizer: Scrum master
+. Participants: Scrum team
+- Results: We know what is going well and decided on improvements.
+
+![First Sprint Retrospective Results](first_retro_results.png)
 
 ##### "Daily” Scrums
 
-When: We have a live daily every Monday at 16:00. Remote daily is held on Fridays at 9:00 when needed.
-Organizer: Scrum master
-Participants: Developers
-Results: The team will be updated on the current situation of the sprint and reacts accrodingly.
+- When: We have a live daily every Monday at 16:00. Remote daily is held on Fridays at 9:00 when needed.
+- Organizer: Scrum master
+- Participants: Developers
+- Results: The team will be updated on the current situation of the sprint and reacts accrodingly.
 
 ##### Teamwork sessions
 
-When: Dev team usually holds teamwork sessions on Wednesdays or Thursdays if needed.
-Organizer: Developers
-Participants: Developers
-Results: Tasks are performed together and progress on tasks.
+- When: Dev team usually holds teamwork sessions on Wednesdays or Thursdays if needed.
+- Organizer: Developers
+- Participants: Developers
+- Results: Tasks are performed together and progress on tasks.
 
 ##### Testing and other quality assurance practices
 
@@ -99,3 +103,4 @@ Git repostiory in Github [https://github.com/Kasipallot/Futuboard]()
 
 ![Architecture Deployment View](architecture_deployment_view.png)
 ![API Definitons](api_definitions.png)
+![Database Structure](database_structure.png)
