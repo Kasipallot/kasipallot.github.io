@@ -6,24 +6,22 @@ Contents for Project Review 1
 
 ### Product Vision
 
-1. Why? 
-explain why the product is being built (the business view)
-
-
-
-2. What?
-product goal, i.e. the desired state of the product in the end of the course project
-
-describe here also those critical quality attributes that are difficult to include in the Definition of Done
-
-
-
-3. For Whom?
-characterize the end users
+- Our goal is to make a free, easy to use and open source web tool for managing team workflows.
+- The tool will include all the necessary features required for an individual or a team to easily manage workflows without suffering from having too many features.
+    - Efficiently implement a team collaboration platform, facilitating remote and mobile accessibility, while integrating software-based reporting for streamlined functionality of a team wall.
+- This tool will allow for more efficient work in teams where all the members are not frequently in the same room.
+- Team members can also remotely access the teams board.
+- Allows teams to automatically generate visualizations and statistics of how their work is progressing.
+ - An easier to use alternative to other agile tools with all the required features.
 
 ### Product Backlog
 
+![Product Backlog 1](product_backlog_1.png)
+![Product Backlog 2](product_backlog_2.png)
+
 ### Sprint Backlog of the current Sprint
+
+![Sprint Backlog](sprint_backlog.png)
 
 ### Process Overview
 
@@ -38,7 +36,6 @@ Organizer: Scrum master
 Participants: Scrum team
 Results: Sprint backlog is decided.
 
-
 ##### Sprint Review
 
 When: Same day as sprint planning and retrospective.
@@ -46,14 +43,12 @@ Organizer: Scrum master
 Participants: Scrum team
 Results: PO is up-to-date how sprint goal has succeeded.
 
-
 ##### Sprint Retrospective
 
 When: Same day as sprint planning and retrospective.
 Organizer: Scrum master
 Participants: Scrum team
 Results: We know what is going well and decided on improvements.
-
 
 ##### "Daily” Scrums
 
@@ -82,11 +77,9 @@ Not yet defined.
 
 - Miro
 
-
 ##### Time tracking
 
 - Excel in Google Drive
-
 
 ##### Version control
 
@@ -102,5 +95,7 @@ Git repostiory in Github [https://github.com/Kasipallot/Futuboard]()
 - All essential documentation has been updated (including this Miro board)
 - Notification of completion has been sent to all parties needing the information
 
-
 ### Technical overview
+
+![Architecture Deployment View](architecture_deployment_view.png)
+![API Definitons](api_definitions.png)
