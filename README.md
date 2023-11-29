@@ -27,54 +27,70 @@ characterize the end users
 
 ### Process Overview
 
-1. Project schedule and effort
+#### Project schedule and effort
 
-2. Recurring events of the Sprints
-Concrete, short instructions (e.g. when, organizer & participants, how, results) for at least the following activities.
+#### Recurring events of the Sprints
 
-2.1 Sprint Planning
+##### Sprint Planning
 
-
-2.2 Sprint Review
-
-
-2.3 Sprint Retrospective
+When: At the start of the sprint. Same day as sprint review and retrospective. We have been combining Sprint planning, review and retrospective. Actual schedule depends on the PO and dev team schedules.
+Organizer: Scrum master
+Participants: Scrum team
+Results: Sprint backlog is decided.
 
 
-2.4 "Daily” Scrums
+##### Sprint Review
+
+When: Same day as sprint planning and retrospective.
+Organizer: Scrum master
+Participants: Scrum team
+Results: PO is up-to-date how sprint goal has succeeded.
 
 
-2.5 Teamwork sessions
+##### Sprint Retrospective
 
-3. Other main practices and tools
-Concrete, short instructions (e.g. when, by whom, how, results) for other main practices and tools.
+When: Same day as sprint planning and retrospective.
+Organizer: Scrum master
+Participants: Scrum team
+Results: We know what is going well and decided on improvements.
 
 
-3.1 Testing and other quality assurance practices
-also link or embed Definition of Done here
+##### "Daily” Scrums
 
-3.2 Communication channel(s)
+When: We have a live daily every Monday at 16:00. Remote daily is held on Fridays at 9:00 when needed.
+Organizer: Scrum master
+Participants: Developers
+Results: The team will be updated on the current situation of the sprint and reacts accrodingly.
+
+##### Teamwork sessions
+
+When: Dev team usually holds teamwork sessions on Wednesdays or Thursdays if needed.
+Organizer: Developers
+Participants: Developers
+Results: Tasks are performed together and progress on tasks.
+
+##### Testing and other quality assurance practices
+
+Not yet defined.
+
+##### Communication channel(s)
 
 - Telegram for the dev team
 - Whatsapp for the whole scrum team
 
-
-3.3 Backlog management
+##### Backlog management
 
 - Miro
 
 
-3.4 Time tracking
+##### Time tracking
 
 - Excel in Google Drive
 
 
-3.5 Version control
+##### Version control
 
 Git repostiory in Github [https://github.com/Kasipallot/Futuboard]()
-
-
-3.6 Any other practices ...
 
 ### Definition of Done
 
