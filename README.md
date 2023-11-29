@@ -55,18 +55,36 @@ also link or embed Definition of Done here
 
 3.2 Communication channel(s)
 
+- Telegram for the dev team
+- Whatsapp for the whole scrum team
+
 
 3.3 Backlog management
+
+- Miro
 
 
 3.4 Time tracking
 
+- Excel in Google Drive
+
 
 3.5 Version control
+
+Git repostiory in Github [https://github.com/Kasipallot/Futuboard]()
 
 
 3.6 Any other practices ...
 
 ### Definition of Done
+
+- The expected value of the user story has been fulfilled
+- Acceptance criteria have been met or deemed unnecessary
+- The work has been reviewed and approved by someone other than the primary contributor
+- Work reporting, with consideration for Sprint Review, has been prepared
+- (For code) The work output is in version control, passes the CI+TA system, tested successfully in the system environment, and available for trial in the testing environment
+- All essential documentation has been updated (including this Miro board)
+- Notification of completion has been sent to all parties needing the information
+
 
 ### Technical overview
