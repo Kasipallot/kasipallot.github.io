@@ -52,7 +52,7 @@ Contents for Project Review 1
 . Participants: Scrum team
 - Results: We know what is going well and decided on improvements.
 
-![First Sprint Retrospective Results](first_retro_results.png)
+![First Sprint Retrospective Results](first_retro_results.jpg)
 
 ##### "Daily” Scrums
 
